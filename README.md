@@ -9,7 +9,8 @@
     6. 8GB MicroSD Card
     옵션: HDMI Cable, HDMI Display
 
-<br> <br>
+<br> ![img_9838](https://user-images.githubusercontent.com/38156821/46993713-ae310280-d14b-11e8-8a0f-369817e940ef.jpg)
+<br>
 
     Software
     1. 아래의 링크에서 setup Utility 를 다운받는다
@@ -24,4 +25,5 @@
     6. 하드웨어에 사용할 image를 선택하라는 메뉴가 표시가 되면 ‘Default image’를 선택하면 해당 image를 다운로드하기 시작 합니다.
     7. 이미지 다운로드가 완료가 되면 MicroSD Card 를 연결하고 Enter 키를 눌러 장치를 선택을 하고 설치를 진행합니다. 설치 시간은 5분 이상
     8. 설치 가 끝나면 직접 Wi-Fi를 설정할 것이므로 n를 선택을 해준다.
-<br> <br>
+<br> 
+![img_5696](https://user-images.githubusercontent.com/38156821/46993714-aec99900-d14b-11e8-8532-870211429dc2.jpg)<br>
